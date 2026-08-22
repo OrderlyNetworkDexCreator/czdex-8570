@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Campaigns,Swap,Rewards,Vaults,Points",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
-  "VITE_ENABLE_CAMPAIGNS": "false",
+  "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/CZRS6666",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/czrs777?s=11",
