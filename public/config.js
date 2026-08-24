@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "强大的去中心化交易所，畅享无缝交易",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Campaigns,Swap,Rewards,Vaults,Points",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap,Rewards,Vaults,Points",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
