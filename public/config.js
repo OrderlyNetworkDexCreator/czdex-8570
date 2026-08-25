@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/CZRS6666",
-  "VITE_DISCORD_URL": "",
+  "VITE_DISCORD_URL": "https://m.debox.pro/group?id=asjazq2s&code=f2fnz553",
   "VITE_TWITTER_URL": "https://x.com/czrs777?s=11",
   "VITE_SEO_SITE_NAME": "CZDEX",
   "VITE_SEO_SITE_DESCRIPTION": "强大的去中心化交易所，畅享无缝交易",
