@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap,Rewards,Vaults,Points",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "X, https://x.com/CZRS777; CZDEX社群, https://t.me/CZRS6666; CZDEXdebox群, https://m.debox.pro/group?id=asjazq2s&code=f2fnz553",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/CZRS6666",
